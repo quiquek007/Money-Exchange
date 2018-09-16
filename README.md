@@ -2,7 +2,8 @@
 
 ### Description
 
-Write a method makeExchange that will determine the minimum number of coins needed to make change for a given amount in American currency.
+Write a method makeExchange that will determine the minimum number of coins needed to make change
+for a given amount in American currency.
 Coins used will be half-dollars, quarters, dimes, nickels, and pennies, worth 50¢, 25¢, 10¢, 5¢ and 1¢, respectively.
 They'll be represented by the strings H, Q, D, N and P.
 
